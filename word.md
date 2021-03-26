@@ -1,4 +1,4 @@
-## **Part1**  
+# **Part1**  
 1.  state n.状态v.陈述说明   
     statute 法令法规   
     manifestation 显示，表现   
@@ -90,6 +90,24 @@
     strain: v.过度使用 n.压力，负担
 
 
+# **Part2**  
+
+1.  peer: n.同龄人，同等地位的人 v.仔细的看，费力的看   
+    gaze at: 凝视，注视   
+    stare at: 凝视  
+    glare at: 长久的怒视，瞪着  
+    contemporary :同代人    
+2.  issue: v.发表，发行。 n.问题  
+    tissue: (动植物)组织    
+3.  claim: n.&v. 要求   
+    proclaim: v.宣布，声明    
+    disclaim: v.否认，拒绝承认   
+    acclaim: v.喝彩   
+    lay claim to : 对....所有权提出要求  
+    allege :声称   
+    contend :声称   
+    assert: 声称  
+     
 
     
 
